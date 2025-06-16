@@ -62,7 +62,7 @@
 .hero {
   width: 100%;
   height: 600px;
-  background-image: url(./gallery/Bg_2.jpg); /* path must be correct */
+  background-image: url(./Bg_2.jpg); /* path must be correct */
   background-size: cover;
   background-position: center;
 }
@@ -197,31 +197,31 @@
   background-size: cover;
 }
 .image1{
-  background-image: url(.//gallery/Drinks_1.jpg);
+  background-image: url(.//Drinks_1.jpg);
 }
 .image2{
-  background-image: url(.//gallery/Drinks_2.jpg);
+  background-image: url(.//Drinks_2.jpg);
 }
 .image3{
-background-image: url(.//gallery/Drinks_3.jpg);
+background-image: url(.//Drinks_3.jpg);
 }
 .image4{
-background-image: url(.//gallery/Lunch_1.jpg);
+background-image: url(.//Lunch_1.jpg);
 }
 .image5{
-background-image: url(.//gallery/Lunch_2.jpg);
+background-image: url(.//Lunch_2.jpg);
 }
 .image6{
-background-image: url(.//gallery/Lunch_3.jpg);
+background-image: url(.//Lunch_3.jpg);
 }
 .image7{
-background-image: url(.//gallery/Dinner_1.jpg);
+background-image: url(.//Dinner_1.jpg);
 }
 .image8{
-background-image: url(.//gallery/Dinner_2.jpg);
+background-image: url(.//Dinner_2.jpg);
 }
 .image9{
-background-image: url(.//gallery/Dinner_3.jpg);
+background-image: url(.//Dinner_3.jpg);
 
 
 
