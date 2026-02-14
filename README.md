@@ -42,5 +42,3 @@ The Food Place Website is a static restaurant-themed web project designed to pra
 
 ---
 
-## 📂 Project Structure
-
