@@ -10,6 +10,19 @@ The Food Place Website is a static restaurant-themed web project designed to pra
 
 ---
 
+## 🖼️ Screenshots
+
+### Home Page
+![Home Page](food_place_1.png)
+
+### About & Special Menu Section
+![About Section](food place 2.png)
+
+### Food & Drinks Gallery
+![Menu Gallery](food place 3.png)
+
+---
+
 ## ✨ Features
 
 - Responsive navigation bar with menu links  
@@ -18,19 +31,9 @@ The Food Place Website is a static restaurant-themed web project designed to pra
 - Special menu categories (All, Drinks, Lunch, Dinner)  
 - Food and drink image gallery  
 - Clean and modern UI design  
-- User-friendly layout  
+- User-friendly layout
 
 ---
-## 🖼️ Screenshots
-
-### Home Page
-![Home Page](food place 1.png)
-
-### About & Special Menu Section
-![About Section](food place 2.png)
-
-### Food & Drinks Gallery
-![Menu Gallery](food place 3.png)
 
 ## 🛠️ Technologies Used
 
