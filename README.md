@@ -24,13 +24,13 @@ The Food Place Website is a static restaurant-themed web project designed to pra
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](food_place_1.png)
+![Home Page](food place 1.png)
 
 ### About & Special Menu Section
-![About Section](food_place_2.png)
+![About Section](food place 2.png)
 
 ### Food & Drinks Gallery
-![Menu Gallery](food_place_3.png)
+![Menu Gallery](food place 3.png)
 
 ## 🛠️ Technologies Used
 
